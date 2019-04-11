@@ -1,0 +1,10 @@
+.lista {
+  text-align: center;
+  color: white;
+  background-color: crimson;
+  padding: 10px;
+}
+
+.lista ul li {
+  list-style: none;
+}
